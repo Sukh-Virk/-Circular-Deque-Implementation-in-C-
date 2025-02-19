@@ -1,6 +1,6 @@
 # -Circular-Deque-Implementation-in-C-\++
 
-verview
+Overview
 This project implements a Circular Deque (Double-Ended Queue) in C++ using a dynamically allocated array. The implementation supports operations to add and remove elements from both ends efficiently.
 
 Files in the Project
